@@ -1,0 +1,30 @@
+.navigation{
+  background-color: grey;
+  color: white;
+  display: inline-block;
+}
+
+.number{
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  font-weight: bold;
+}
+.picture_title{
+  background-color: #67efdb;
+}
+.picture_footer{
+  background-color: yellow
+}
+
+html{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+footer {
+  background-color: black;
+}
