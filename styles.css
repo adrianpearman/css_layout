@@ -5,7 +5,7 @@
   color: white;
   display: inline-block;
   font-size: 24px;
-  font-style: strong;
+  padding: 10px;
 }
 .picture {
   width: 33%;
@@ -40,7 +40,6 @@
 }
 
 .menu{
-  padding: 0px;
   text-align: center;
 }
 
@@ -54,6 +53,7 @@ h1 {
   color: white;
   text-align: center;
   font-size: 36px;
+  padding: 10px;
 }
 
 footer {
@@ -61,4 +61,6 @@ footer {
   color: white;
   text-align: center;
   margin: auto;
+  padding: 16px;
+font-size: 10px;
 }
