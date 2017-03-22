@@ -1,12 +1,15 @@
+
+
 .navigation{
-  background-color: grey;
+  background-color: lightgrey;
   color: white;
   display: inline-block;
+  font-size: 24px;
+  font-style: strong;
 }
 .picture {
   width: 33%;
   float: left;
-
 }
 .picture img{
   width: 100%;
@@ -20,12 +23,18 @@
   list-style-type: none;
   display: inline-table;
   width: 80%;
+  margin-left: auto;
+  padding-left: 100px;
 }
 .picture_title{
   background-color: #67efdb;
+  width: 900px;
+  margin: auto;
 }
 .picture_footer{
-  background-color: yellow
+  background-color: #FFD700;
+  margin: auto;
+  text-align: center;
 }
 
 .menu{
@@ -36,13 +45,13 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   width: 1000px
-
 }
 
 h1 {
   background-color: black;
   color: white;
   text-align: center;
+  font-size: 36px;
 }
 
 footer {
