@@ -10,6 +10,8 @@
 .picture {
   width: 33%;
   float: left;
+  padding-right: 2px;
+  padding-bottom: 10px;
 }
 .picture img{
   width: 100%;
